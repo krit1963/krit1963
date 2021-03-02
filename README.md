@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Krit's github stats](https://github-readme-stats.vercel.app/api?username=krit1963&show_icons=true&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Krit's github stats][![Kasadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=krit1963)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krit1963&layout=compact&langs_count=8&theme=vue)](https://github.com/krit1963/krit1963)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krit1963&repo=ITCS424&theme=vue)](https://github.com/krit1963/ITCS424)
 <!--
