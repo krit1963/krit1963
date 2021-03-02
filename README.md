@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Krit's github stats](https://github-readme-stats.vercel.app/api?username=krit1963&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krit1963&layout=compact&langs_count=8&theme=react)](https://github.com/krit1963/krit1963)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krit1963&repo=Learning-Vue&theme=radical)](https://github.com/krit1963/ITCS424)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krit1963&repo=ITCS424&theme=radical)](https://github.com/krit1963/ITCS424)
 <!--
 **krit1963/krit1963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
